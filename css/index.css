@@ -1,36 +1,24 @@
-/* Profile pic */
 
-.main-pic {
+
+main {
   display: flex;
-  width: 35%;
-}
-
-/* Main */
-.main-intro {
-  padding: 5px;
-  border: solid rgba(128, 128, 128, 0.5);
-  margin-top: 0px;
-}
+  justify-content: center;
   
-h2 {
-  margin-bottom: 0px;
 }
 
-/* Main media */
-
-@media (min-width: 760px) {
-   .heading  {
-    display: flex;
-    flex-direction: row-reverse;
-    justify-content: flex-end;
-    padding-top: 26px;
-  }
-
-  h1 {
-    padding-left: 10px;
-  }
+main img {
+  width: 25vw;
+  padding: 2em 0em;
+  border-radius: 1em;
 }
 
+
+
+
+  
+
+
+  
 
 
 

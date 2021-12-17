@@ -1,24 +1,14 @@
-/* Work + school picture */
-
-.exp-grid {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 2rem;
-  padding-top: 3rem;
+main {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
 }
-  
-.work-pic {
-  width: 50%;
-  padding-left: 1rem;
+
+h1 {
+  padding: 2em 0;
 }
-    
-.school-pic {
-  width: 50%;
-  padding-left: 1rem;
-} 
+
+main img {
+  width: 50vw;
   
-
-  
-
-
-
+}
