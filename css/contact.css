@@ -1,0 +1,14 @@
+
+h1 {
+  display: flex;
+  justify-content: center;
+  margin: 0;
+}
+
+p {
+  display: flex;
+  justify-content: center;
+  margin-top: 0;
+  margin-bottom: 30px;
+}
+

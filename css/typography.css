@@ -1,0 +1,22 @@
+* {
+    font-family: sans-serif;
+}
+    
+h1 {
+font-size: 2rem;
+}
+
+h2 {
+    font-size: 1rem;
+}
+
+.author-text {
+ font-weight: bold;
+}
+
+.author-text2 {
+    font-style: italic;
+}
+
+
+    

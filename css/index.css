@@ -1,0 +1,40 @@
+/* Profile pic */
+
+.main-pic {
+  display: flex;
+  width: 35%;
+}
+
+/* Main */
+.main-intro {
+  padding: 5px;
+  border: solid rgba(128, 128, 128, 0.5);
+  margin-top: 0px;
+}
+  
+h2 {
+  margin-bottom: 0px;
+}
+
+/* Main media */
+
+@media (min-width: 760px) {
+   .heading  {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: flex-end;
+    padding-top: 26px;
+  }
+
+  h1 {
+    padding-left: 10px;
+  }
+}
+
+
+
+
+
+
+
+
