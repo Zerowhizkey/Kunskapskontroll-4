@@ -1,7 +1,6 @@
 /* Footer */
 footer {
   display: flex;
-
   justify-content: space-between;
   position: fixed;
   bottom: 0;
