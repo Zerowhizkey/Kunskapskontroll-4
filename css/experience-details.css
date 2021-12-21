@@ -1,0 +1,22 @@
+.slide-show {
+    width: 50vw;
+    }
+
+.slick-next:before, .slick-next:after, .slick-prev:before, .slick-prev:after {
+    color: black !important;
+}
+
+main {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  }
+
+  @media (min-width: 600px) {
+    .slide-show {
+      width: 20vw;
+    }
+}
+  /* .slick-slide {
+      max-height: 50vh !important;
+  } */
