@@ -2,6 +2,7 @@
 footer {
   display: flex;
   justify-content: space-between;
+  align-items: center;
   position: fixed;
   bottom: 0;
   width: 100%;
@@ -10,15 +11,15 @@ footer {
 
 .author {
   display: flex;
-  flex-direction: column;
+  /* flex-direction: column; */
   margin-bottom: 0%;
   padding-right: 0.1rem;
 }
 
-.footer-bot-right {
+/* .footer-bot-right {
   display: grid;
   align-content: center;
-}
+} */
 
 footer img {
   width: 30px;

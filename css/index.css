@@ -1,19 +1,30 @@
 
 
-main {
+.heading {
   display: flex;
   justify-content: center;
   
 }
 
-main img {
+.heading img {
   width: 25vw;
   padding: 2em 0em;
-  border-radius: 1em;
+  border-radius: 8em;
+}
+
+.introduction {
+  border-top: 1px solid rgba(0, 0, 0, 0.5);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.5);
 }
 
 
+h3 {
+  padding: 1em 0;
+}
 
+p {
+  padding-bottom: 1em;
+}
 
   
 

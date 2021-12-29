@@ -9,26 +9,36 @@
   color: black !important;
 }
 
-
-
 img {
   width: 40%;
+  padding-top: 2em;
 }
 
 main section {
   display: flex;
   justify-content: center;
 }
+
+.kunskaps-text {
+  border-top: 1px solid rgba(0, 0, 0, 0.5);
+}
+
+h3 {
+  padding-top: 1em;
+  padding-left: 1em;
+}
+
+p {
+  padding-left: 1em;
+}
 /* main {
     display: flex;
     align-items: center;
     flex-direction: column;
   } /
-
 / .slick-slide {
       max-height: 50vh !important;
   } /
-
 / img {
     height: 50vh;
     height: inherit;
