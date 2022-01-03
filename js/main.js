@@ -1,3 +1,5 @@
+// Hamburger menu
+
 (function($) { // Begin jQuery
     $(function() { // DOM ready
       // If a link has a dropdown, add sub menu toggle.
