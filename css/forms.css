@@ -1,56 +1,54 @@
 /* Styling of the form */
 .contact-form {
-    display: grid;
-    justify-content: center;
-    justify-items: center;
-  }
-  
-  .name-form {
-    width: 150px;
-    margin-bottom: 20px;
-    border-radius: 5px;
-  }
-  
-  .email-form {
-    width: 150px;
-    margin-bottom: 20px;
-    border-radius: 5px;
-  }
-  
-  .text-form {
-    width: 320px;
-    height: 120px;
-    border-radius: 5px;
-  }
-  
-  /* fancy effects*/
-  .name-form:hover {
-    width: 200px;
-    height: 35px;
-    border-bottom: solid 5px rgb(21, 214, 188);
-    transition: ease 0.5s;
-  }
-  
-  .email-form:hover {
-    width: 200px;
-    height: 35px;
-    border-bottom: solid 5px rgb(21, 214, 188);
-    transition: ease 0.5s;
-  }
-  
-  .text-form:hover {
-    width: 370px;
-    height: 150px;
-    border-radius: 5px;
-    border-bottom: solid 5px rgb(21, 214, 188);
-    transition: ease 0.5s;
-  }
-  
-  .contact-button:hover {
-    width: 60px;
-    height: 31px;
-    transition: ease 0.5s;
-    border-radius: 5px;
-  }
-  
-    
+  display: grid;
+  justify-content: center;
+  justify-items: center;
+}
+
+.name-form {
+  width: 150px;
+  margin-bottom: 20px;
+  border-radius: 5px;
+}
+
+.email-form {
+  width: 150px;
+  margin-bottom: 20px;
+  border-radius: 5px;
+}
+
+.text-form {
+  width: 320px;
+  height: 120px;
+  border-radius: 5px;
+}
+
+/* fancy effects*/
+.name-form:hover {
+  width: 200px;
+  height: 35px;
+  border-bottom: solid 5px rgb(21, 214, 188);
+  transition: ease 0.5s;
+}
+
+.email-form:hover {
+  width: 200px;
+  height: 35px;
+  border-bottom: solid 5px rgb(21, 214, 188);
+  transition: ease 0.5s;
+}
+
+.text-form:hover {
+  width: 370px;
+  height: 150px;
+  border-radius: 5px;
+  border-bottom: solid 5px rgb(21, 214, 188);
+  transition: ease 0.5s;
+}
+
+.contact-button:hover {
+  width: 60px;
+  height: 31px;
+  transition: ease 0.5s;
+  border-radius: 5px;
+}

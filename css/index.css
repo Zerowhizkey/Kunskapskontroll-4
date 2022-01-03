@@ -1,9 +1,6 @@
-
-
 .heading {
   display: flex;
   justify-content: center;
-  
 }
 
 .heading img {
@@ -17,7 +14,6 @@
   border-bottom: 1px solid rgba(0, 0, 0, 0.5);
 }
 
-
 h3 {
   padding: 1em 0;
 }
@@ -25,15 +21,3 @@ h3 {
 p {
   padding-bottom: 1em;
 }
-
-  
-
-
-  
-
-
-
-
-
-
-
